@@ -179,7 +179,6 @@ button:hover {
 
 .hero footer {
     grid-area: footer;
-
     display: flex;
     justify-content: center;
     background-color: #387E96;
